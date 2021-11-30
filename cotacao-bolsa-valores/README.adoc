@@ -1,1 +1,1 @@
-Atividade padrão adapter
+### Atividade padrão adapter ###
